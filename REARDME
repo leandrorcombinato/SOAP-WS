@@ -1,0 +1,11 @@
+
+Example
+http://www.mkyong.com/webservices/jax-ws/jax-ws-hello-world-example/
+
+
+http://localhost:9999/ws/hello?wsdl
+
+D:\Sun\eclipseMars\workspace-devmedia\JAX-WS-HelloWorld-RPC-Example\WebServices\src\com\mkyong\client
+
+command
+wsimport -keep http://localhost:9999/ws/hello?wsdl
